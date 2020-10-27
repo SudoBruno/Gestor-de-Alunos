@@ -1,6 +1,4 @@
-﻿using projeto_facul.DAO;
-using projeto_facul.MODELS;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -12,21 +10,16 @@ using System.Windows.Forms;
 
 namespace projeto_facul
 {
-    public partial class FormLogin : Form
+    public partial class FormCadastroProf : Form
     {
-        public FormLogin()
+        public FormCadastroProf()
         {
             InitializeComponent();
         }
 
-        private void button3_Click(object sender, EventArgs e)
+        private void btnCancelar_Click(object sender, EventArgs e)
         {
             this.Close();
-        }
-
-        private void btnLogin_Click(object sender, EventArgs e)
-        {
-            
         }
     }
 }

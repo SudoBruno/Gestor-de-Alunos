@@ -16,5 +16,33 @@ namespace projeto_facul
         {
             InitializeComponent();
         }
+
+        private void btnLogin_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+
+            FormLogin formLogin = new FormLogin();
+
+            formLogin.ShowDialog();
+
+            this.Show();
+
+
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+
+            FormCadastroProf formCadastroProf = new FormCadastroProf();
+            formCadastroProf.ShowDialog();
+
+            this.Show();
+        }
     }
 }
