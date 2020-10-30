@@ -1,0 +1,31 @@
+C:\Users\bruno\source\repos\projeto facul\projeto facul\bin\Debug\projeto facul.exe.config
+C:\Users\bruno\source\repos\projeto facul\projeto facul\bin\Debug\projeto facul.exe
+C:\Users\bruno\source\repos\projeto facul\projeto facul\bin\Debug\projeto facul.pdb
+C:\Users\bruno\source\repos\projeto facul\projeto facul\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\bruno\source\repos\projeto facul\projeto facul\bin\Debug\Guna.UI.dll
+C:\Users\bruno\source\repos\projeto facul\projeto facul\obj\Debug\projeto facul.csprojAssemblyReference.cache
+C:\Users\bruno\source\repos\projeto facul\projeto facul\obj\Debug\projeto_facul.Form1.resources
+C:\Users\bruno\source\repos\projeto facul\projeto facul\obj\Debug\projeto_facul.Properties.Resources.resources
+C:\Users\bruno\source\repos\projeto facul\projeto facul\obj\Debug\projeto facul.csproj.GenerateResource.cache
+C:\Users\bruno\source\repos\projeto facul\projeto facul\obj\Debug\projeto facul.csproj.CoreCompileInputs.cache
+C:\Users\bruno\source\repos\projeto facul\projeto facul\obj\Debug\projeto facul.csproj.CopyComplete
+C:\Users\bruno\source\repos\projeto facul\projeto facul\obj\Debug\projeto facul.exe
+C:\Users\bruno\source\repos\projeto facul\projeto facul\obj\Debug\projeto facul.pdb
+C:\Users\bruno\source\repos\projeto facul\projeto facul\bin\Debug\XanderUI.dll
+C:\Users\bruno\source\repos\projeto facul\projeto facul\obj\Debug\projeto_facul.LoginForm.resources
+C:\Users\bruno\source\repos\PROJETO\StudentsManagement\projeto facul\bin\Debug\projeto facul.exe.config
+C:\Users\bruno\source\repos\PROJETO\StudentsManagement\projeto facul\bin\Debug\projeto facul.exe
+C:\Users\bruno\source\repos\PROJETO\StudentsManagement\projeto facul\bin\Debug\projeto facul.pdb
+C:\Users\bruno\source\repos\PROJETO\StudentsManagement\projeto facul\obj\Debug\projeto_facul.Properties.Resources.resources
+C:\Users\bruno\source\repos\PROJETO\StudentsManagement\projeto facul\obj\Debug\projeto facul.csproj.GenerateResource.cache
+C:\Users\bruno\source\repos\PROJETO\StudentsManagement\projeto facul\obj\Debug\projeto facul.csproj.CoreCompileInputs.cache
+C:\Users\bruno\source\repos\PROJETO\StudentsManagement\projeto facul\obj\Debug\projeto facul.csproj.CopyComplete
+C:\Users\bruno\source\repos\PROJETO\StudentsManagement\projeto facul\obj\Debug\projeto facul.exe
+C:\Users\bruno\source\repos\PROJETO\StudentsManagement\projeto facul\obj\Debug\projeto facul.pdb
+C:\Users\bruno\source\repos\PROJETO\StudentsManagement\projeto facul\obj\Debug\projeto_facul.FormLogin.resources
+C:\Users\bruno\source\repos\PROJETO\StudentsManagement\projeto facul\obj\Debug\projeto_facul.SplashForm.resources
+C:\Users\bruno\source\repos\PROJETO\StudentsManagement\projeto facul\obj\Debug\projeto_facul.UserControlDashboard.resources
+C:\Users\bruno\source\repos\PROJETO\StudentsManagement\projeto facul\obj\Debug\projeto facul.csprojAssemblyReference.cache
+C:\Users\bruno\source\repos\PROJETO\StudentsManagement\projeto facul\obj\Debug\projeto_facul.FormCadastroProf.resources
+C:\Users\bruno\source\repos\PROJETO\StudentsManagement\projeto facul\obj\Debug\projeto_facul.UserControlAluno.resources
+C:\Users\bruno\source\repos\PROJETO\StudentsManagement\projeto facul\obj\Debug\projeto_facul.Dashboard.resources
