@@ -167,7 +167,7 @@
             this.gunaTextBox1.Font = new System.Drawing.Font("Segoe UI", 9F);
             this.gunaTextBox1.Location = new System.Drawing.Point(79, 189);
             this.gunaTextBox1.Name = "gunaTextBox1";
-            this.gunaTextBox1.PasswordChar = '*';
+            this.gunaTextBox1.PasswordChar = '\0';
             this.gunaTextBox1.SelectedText = "";
             this.gunaTextBox1.Size = new System.Drawing.Size(237, 37);
             this.gunaTextBox1.TabIndex = 28;

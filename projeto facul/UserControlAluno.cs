@@ -16,5 +16,17 @@ namespace projeto_facul
         {
             InitializeComponent();
         }
+
+        private void bunifuImageButton2_Click(object sender, EventArgs e)
+        {
+            FormInserirAluno formInserirAluno = new FormInserirAluno();
+            formInserirAluno.ShowDialog();
+        }
+
+        private void bunifuImageButton3_Click(object sender, EventArgs e)
+        {
+            FormCadastrarNotas formCadastrarNotas = new FormCadastrarNotas();
+            formCadastrarNotas.ShowDialog();
+        }
     }
 }

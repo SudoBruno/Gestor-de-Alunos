@@ -15,7 +15,10 @@ namespace projeto_facul
         public Dashboard()
         {
             InitializeComponent();
+            userControlDashboard1.Show();
             userControlAluno1.Hide();
+            userControlCurso1.Hide();
+            userControlDisciplina11.Hide();
         }
 
         private void gunaButton1_Click(object sender, EventArgs e)
@@ -37,7 +40,30 @@ namespace projeto_facul
         private void btnAlunos_Click(object sender, EventArgs e)
         {
             userControlDashboard1.Hide();
+            userControlCurso2.Hide();
+            userControlDisciplina1.Hide();
             userControlAluno1.Show();
+        }
+
+        private void btnClose_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
+
+        private void bunifuFlatButton3_Click_2(object sender, EventArgs e)
+        {
+            userControlDashboard1.Hide();
+            userControlDisciplina1.Hide();
+            userControlAluno1.Hide();
+            userControlCurso2.Show(); 
+        }
+
+        private void bunifuFlatButton4_Click(object sender, EventArgs e)
+        {
+            userControlDashboard1.Hide();
+            userControlAluno1.Hide();
+            userControlCurso2.Hide();
+            userControlDisciplina1.Show();
         }
     }
 }

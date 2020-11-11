@@ -52,7 +52,7 @@
             this.xuiCard3.Size = new System.Drawing.Size(162, 85);
             this.xuiCard3.TabIndex = 6;
             this.xuiCard3.Text = "xuiCard3";
-            this.xuiCard3.Text1 = "MÉDIA DA TURMA";
+            this.xuiCard3.Text1 = "MÉDIA GERAL";
             this.xuiCard3.Text2 = "7.5";
             this.xuiCard3.Text3 = "";
             // 
@@ -67,7 +67,7 @@
             this.xuiCard2.Size = new System.Drawing.Size(162, 85);
             this.xuiCard2.TabIndex = 5;
             this.xuiCard2.Text = "xuiCard2";
-            this.xuiCard2.Text1 = "MENOR NOTA";
+            this.xuiCard2.Text1 = "MENOR MEDIA";
             this.xuiCard2.Text2 = "3";
             this.xuiCard2.Text3 = "";
             // 
@@ -82,7 +82,7 @@
             this.xuiCard1.Size = new System.Drawing.Size(157, 85);
             this.xuiCard1.TabIndex = 4;
             this.xuiCard1.Text = "xuiCard1";
-            this.xuiCard1.Text1 = "MAIOR NOTA";
+            this.xuiCard1.Text1 = "MAIOR MEDIA";
             this.xuiCard1.Text2 = "10";
             this.xuiCard1.Text3 = "";
             // 
@@ -113,7 +113,7 @@
             this.bunifuCustomDataGrid1.Location = new System.Drawing.Point(41, 164);
             this.bunifuCustomDataGrid1.Name = "bunifuCustomDataGrid1";
             this.bunifuCustomDataGrid1.RowHeadersBorderStyle = System.Windows.Forms.DataGridViewHeaderBorderStyle.None;
-            this.bunifuCustomDataGrid1.Size = new System.Drawing.Size(340, 168);
+            this.bunifuCustomDataGrid1.Size = new System.Drawing.Size(527, 168);
             this.bunifuCustomDataGrid1.TabIndex = 7;
             // 
             // Column1

@@ -26,7 +26,8 @@ namespace projeto_facul
 
         private void btnLogin_Click(object sender, EventArgs e)
         {
-            
+            Dashboard dashboard = new Dashboard();
+            dashboard.ShowDialog();
         }
 
         private void gunaTextBox1_TextChanged(object sender, EventArgs e)
